@@ -4,7 +4,7 @@
 ## Quickstart
 
 ```php
-composer require tempest/highlight
+composer require juniora/highlight
 ```
 
 Highlight code like this:
