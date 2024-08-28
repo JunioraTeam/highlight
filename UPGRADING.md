@@ -1,3 +1,29 @@
+## 2.10.0
+
+- Support unicode tokens in standardizing line endings (#143)
+
+## 2.9.0
+
+- Fix for promoted property hooks (#110) 
+- Fix for blade echo highlighting within comments (#113) 
+- Fix for static property types (#129)
+- Fix for attribute in promoted property (#133)
+- Fix for comments in function argument lists (#134)
+- Fix for variadic types (#140)
+- Fix for functions called "new" (#141)
+
+## 2.8.2
+
+- Add Inspired GitHub theme (#139)
+
+## 2.8.1
+
+- Fix unicode tokens bug (#136)
+
+## 2.8.0
+
+- Add Dockerfile support (#135)
+
 ## 2.7.0
 
 - Rename BOOLEAN token to LITERAL token (#128)
