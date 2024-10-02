@@ -1,3 +1,15 @@
+## 2.10.3
+
+- Normalize newline formats (#150)
+
+## 2.10.2
+
+- Fix for extra added spaces at the start of lines (#145)
+
+## 2.10.1
+
+- Fix for trimming code when using gutter (#146)
+
 ## 2.10.0
 
 - Support unicode tokens in standardizing line endings (#143)
